@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="algospot\BoardCover.cpp" />
     <ClCompile Include="algospot\ClockSync.cpp" />
+    <ClCompile Include="algospot\Fence.cpp" />
     <ClCompile Include="algospot\Picnic.cpp" />
     <ClCompile Include="algospot\QuadTree.cpp" />
     <ClCompile Include="baekjoon\10814.cpp" />
