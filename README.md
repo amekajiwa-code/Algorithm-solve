@@ -2,6 +2,7 @@
 ## 알고리즘 문제풀이
 
 ### 완전 탐색 (Brute Force)
+- [알고스팟 - 쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE)
 
 - [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC)
 
