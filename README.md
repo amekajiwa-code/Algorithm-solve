@@ -2,8 +2,6 @@
 ## 알고리즘 문제풀이
 
 ### 완전 탐색 (Brute Force)
-- [알고스팟 - 쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE)
-
 - [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC)
 
 
@@ -11,6 +9,11 @@
 
 
 - [알고스팟 - 시계 맞추기](https://algospot.com/judge/problem/read/CLOCKSYNC)
+
+### 분할 정복
+- [알고스팟 - 울타리 잘라내기](https://algospot.com/judge/problem/read/FENCE)
+
+- [알고스팟 - 쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE)
 
 ### 구현
 
@@ -29,7 +32,5 @@
 - [백준 11866번 - 요세푸스 문제0](https://www.acmicpc.net/problem/11866)
 
 ### 정렬
-
-### 이분 탐색
 
 ### 기타
