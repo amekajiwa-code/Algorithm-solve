@@ -11,6 +11,8 @@
 - [알고스팟 - 시계 맞추기](https://algospot.com/judge/problem/read/CLOCKSYNC)
 
 ### 분할 정복
+- [알고스팟 - 팬미팅](https://algospot.com/judge/problem/read/FANMEETING)
+
 - [알고스팟 - 울타리 잘라내기](https://algospot.com/judge/problem/read/FENCE)
 
 - [알고스팟 - 쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE)
