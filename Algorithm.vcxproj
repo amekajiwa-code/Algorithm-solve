@@ -133,6 +133,7 @@
     <ClCompile Include="algospot\Fence.cpp" />
     <ClCompile Include="algospot\Picnic.cpp" />
     <ClCompile Include="algospot\QuadTree.cpp" />
+    <ClCompile Include="baekjoon\1074번.cpp" />
     <ClCompile Include="baekjoon\10814.cpp" />
     <ClCompile Include="baekjoon\10816번.cpp" />
     <ClCompile Include="baekjoon\10828번.cpp" />
