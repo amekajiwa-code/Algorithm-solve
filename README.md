@@ -13,6 +13,8 @@
 ### 분할 정복
 - [백준 17829번 - 222-풀링](https://www.acmicpc.net/problem/17829)
 
+- [백준 1074번 - Z](https://www.acmicpc.net/problem/1074)
+
 - [알고스팟 - 팬미팅](https://algospot.com/judge/problem/read/FANMEETING)
 
 - [알고스팟 - 울타리 잘라내기](https://algospot.com/judge/problem/read/FENCE)
