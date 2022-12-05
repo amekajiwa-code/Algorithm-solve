@@ -87,6 +87,12 @@
     <ClCompile Include="algospot\WildCard.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="algospot\JLIS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="algospot\PI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baekjoon\1920번.h">
