@@ -136,6 +136,7 @@
     <ClCompile Include="algospot\JLIS.cpp" />
     <ClCompile Include="algospot\PI.cpp" />
     <ClCompile Include="algospot\Picnic.cpp" />
+    <ClCompile Include="algospot\Poly.cpp" />
     <ClCompile Include="algospot\QuadTree.cpp" />
     <ClCompile Include="algospot\Quantize.cpp" />
     <ClCompile Include="algospot\WildCard.cpp" />
