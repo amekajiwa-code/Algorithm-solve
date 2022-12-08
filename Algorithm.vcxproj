@@ -134,6 +134,7 @@
     <ClCompile Include="algospot\FanMeeting.cpp" />
     <ClCompile Include="algospot\Fence.cpp" />
     <ClCompile Include="algospot\JLIS.cpp" />
+    <ClCompile Include="algospot\NUMB3RS.cpp" />
     <ClCompile Include="algospot\PI.cpp" />
     <ClCompile Include="algospot\Picnic.cpp" />
     <ClCompile Include="algospot\Poly.cpp" />

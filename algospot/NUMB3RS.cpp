@@ -31,7 +31,7 @@ double search(int here, int days) {
 	return ret;
 }
 
-int main() {
+int Numb3rs_main() {
 	int C;
 	cin >> C;
 	cout << fixed;
