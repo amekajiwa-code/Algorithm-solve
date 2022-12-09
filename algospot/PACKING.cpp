@@ -38,7 +38,7 @@ void reconstruct(int capacity, int item,
 	}
 }
 
-int main() {
+int packing_main() {
 	int C;
 	cin >> C;
 	while (C--) {
