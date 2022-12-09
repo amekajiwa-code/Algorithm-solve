@@ -155,6 +155,7 @@
     <ClCompile Include="baekjoon\2164번.cpp" />
     <ClCompile Include="baekjoon\2751번.cpp" />
     <ClCompile Include="baekjoon\2839번.cpp" />
+    <ClCompile Include="baekjoon\2839번DP.cpp" />
     <ClCompile Include="baekjoon\7568번.cpp" />
     <ClCompile Include="baekjoon\9012번.cpp" />
     <ClCompile Include="main.cpp" />
