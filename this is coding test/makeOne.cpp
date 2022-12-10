@@ -29,10 +29,10 @@ int solve(int x) {
     return ret;
 }
 
-int main() {
-	int X;
-	cin >> X;
-	memset(cache, -1, sizeof(cache));
+int makeOne_main() {
+    int X;
+    cin >> X;
+    memset(cache, -1, sizeof(cache));
     cout << solve(X) << "\n";
-	return 0;
+    return 0;
 }
