@@ -60,14 +60,14 @@ void reconstruct(int start, int skip, vector<int>& lis) {
 		if (cnt <= skip) {
 			skip -= cnt;
 		}
-		else{
+		else {
 			reconstruct(idx, skip, lis);
 			break;
 		}
 	}
 }
 
-int main() {
+int KLIS_main() {
 	int C;
 	cin >> C;
 	while (C--) {
