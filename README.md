@@ -34,7 +34,13 @@
 
 - [알고스팟 - 여행 짐싸기](https://algospot.com/judge/problem/read/PACKING)
 
-- [알고스팟 - 여행 짐싸기](https://algospot.com/judge/problem/read/PACKING)
+- [알고스팟 - 원주율 외우기](https://algospot.com/judge/problem/read/PI)
+
+- [알고스팟 - 폴리오미노](https://algospot.com/judge/problem/read/POLY)
+
+- [알고스팟 - Quantization](https://algospot.com/judge/problem/read/QUANTIZE)
+
+- [알고스팟 - 와일드카드](https://algospot.com/judge/problem/read/WILDCARD)
 
 ### 구현
 
