@@ -42,7 +42,7 @@
 
 - [알고스팟 - 와일드카드](https://algospot.com/judge/problem/read/WILDCARD) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/WildCard.cpp)
 
-- [백준 2839번 - 설탕 배달](https://www.acmicpc.net/problem/2839) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/KLIS.cpp)
+- [백준 2839번 - 설탕 배달](https://www.acmicpc.net/problem/2839) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/2839번DP.cpp)
 
 ### 구현
 
