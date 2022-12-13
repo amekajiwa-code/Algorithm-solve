@@ -11,9 +11,9 @@
 - [알고스팟 - 시계 맞추기](https://algospot.com/judge/problem/read/CLOCKSYNC) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/ClockSync.cpp)
 
 ### 분할 정복
-- [백준 17829번 - 222-풀링](https://www.acmicpc.net/problem/17829)
+- [백준 17829번 - 222-풀링](https://www.acmicpc.net/problem/17829) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/17829번.cpp)
 
-- [백준 1074번 - Z](https://www.acmicpc.net/problem/1074)
+- [백준 1074번 - Z](https://www.acmicpc.net/problem/1074) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/1074번.cpp)
 
 - [알고스팟 - 팬미팅](https://algospot.com/judge/problem/read/FANMEETING) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/FanMeeting.cpp)
 
@@ -48,17 +48,17 @@
 
 ### 자료구조
 
-- [백준 2164번 - 카드2](https://www.acmicpc.net/problem/2164)
+- [백준 2164번 - 카드2](https://www.acmicpc.net/problem/2164) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/2164번.cpp)
 
-- [백준 10816번 - 숫자카드2](https://www.acmicpc.net/problem/10816)
+- [백준 10816번 - 숫자카드2](https://www.acmicpc.net/problem/10816) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/10816번.cpp)
 
-- [백준 10828번 - 스택](https://www.acmicpc.net/problem/10828)
+- [백준 10828번 - 스택](https://www.acmicpc.net/problem/10828) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/10828번.cpp)
 
-- [백준 10845번 - 큐](https://www.acmicpc.net/problem/10845)
+- [백준 10845번 - 큐](https://www.acmicpc.net/problem/10845) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/10845번.cpp)
 
-- [백준 10866번 - 덱](https://www.acmicpc.net/problem/10866)
+- [백준 10866번 - 덱](https://www.acmicpc.net/problem/10866) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/10866번.cpp)
 
-- [백준 11866번 - 요세푸스 문제0](https://www.acmicpc.net/problem/11866)
+- [백준 11866번 - 요세푸스 문제0](https://www.acmicpc.net/problem/11866) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/11866번.cpp)
 
 ### 정렬
 
