@@ -131,6 +131,7 @@
     <ClCompile Include="algospot\Asymmetric.cpp" />
     <ClCompile Include="algospot\BoardCover.cpp" />
     <ClCompile Include="algospot\ClockSync.cpp" />
+    <ClCompile Include="algospot\DragonCurve.cpp" />
     <ClCompile Include="algospot\FanMeeting.cpp" />
     <ClCompile Include="algospot\Fence.cpp" />
     <ClCompile Include="algospot\JLIS.cpp" />
@@ -143,6 +144,7 @@
     <ClCompile Include="algospot\QuadTree.cpp" />
     <ClCompile Include="algospot\Quantize.cpp" />
     <ClCompile Include="algospot\WildCard.cpp" />
+    <ClCompile Include="algospot\ZIMBABWE.cpp" />
     <ClCompile Include="baekjoon\1074번.cpp" />
     <ClCompile Include="baekjoon\10814.cpp" />
     <ClCompile Include="baekjoon\10816번.cpp" />
