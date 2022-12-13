@@ -42,6 +42,8 @@
 
 - [알고스팟 - 와일드카드](https://algospot.com/judge/problem/read/WILDCARD)
 
+- [백준 2839번 - 1로 만들기](https://www.acmicpc.net/problem/2839)
+
 ### 구현
 
 ### 자료구조
