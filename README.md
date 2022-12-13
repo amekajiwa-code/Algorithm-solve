@@ -2,7 +2,7 @@
 ## 알고리즘 문제풀이
 
 ### 완전 탐색 (Brute Force)
-- [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC) Source(https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Picnic.cpp)
+- [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC) [Source](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Picnic.cpp)
 
 
 - [알고스팟 - 게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER)
