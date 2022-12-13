@@ -2,13 +2,13 @@
 ## 알고리즘 문제풀이
 
 ### 완전 탐색 (Brute Force)
-- [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC) [Source](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Picnic.cpp)
+- [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Picnic.cpp)
 
 
-- [알고스팟 - 게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER)
+- [알고스팟 - 게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BoardCover.cpp)
 
 
-- [알고스팟 - 시계 맞추기](https://algospot.com/judge/problem/read/CLOCKSYNC)
+- [알고스팟 - 시계 맞추기](https://algospot.com/judge/problem/read/CLOCKSYNC) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/ClockSync.cpp)
 
 ### 분할 정복
 - [백준 17829번 - 222-풀링](https://www.acmicpc.net/problem/17829)
