@@ -8,7 +8,7 @@ const int MAX_N = 15;
 // k : 부분문자열의 수
 int k;
 string word[MAX_N];
-int cache[MAX_N][1<<MAX_N], overlap[MAX_N][MAX_N];
+int cache[MAX_N][1 << MAX_N], overlap[MAX_N][MAX_N];
 
 //단어 a뒤에 b가 등장할때 최대 겹칠수 있는 길이 계산
 void overlaping(int a, int b) {
@@ -61,7 +61,7 @@ string reconstruct(int last, int used) {
 	return "@#(#@$";
 }
 
-int main() {
+int Restore_main() {
 	int C;
 	cin >> C;
 	while (C--) {
@@ -94,5 +94,5 @@ int main() {
 		}
 		cout << reconstruct(k, 0) << "\n";
 	}
-	return 0; 
+	return 0;
 }

@@ -143,6 +143,7 @@
     <ClCompile Include="algospot\Poly.cpp" />
     <ClCompile Include="algospot\QuadTree.cpp" />
     <ClCompile Include="algospot\Quantize.cpp" />
+    <ClCompile Include="algospot\Restore.cpp" />
     <ClCompile Include="algospot\WildCard.cpp" />
     <ClCompile Include="algospot\ZIMBABWE.cpp" />
     <ClCompile Include="baekjoon\1074번.cpp" />
