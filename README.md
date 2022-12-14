@@ -44,6 +44,8 @@
 
 - [백준 2839번 - 설탕 배달](https://www.acmicpc.net/problem/2839) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/2839번DP.cpp)
 
+- [알고스팟 - 데이터 복구하기](https://algospot.com/judge/problem/read/RESTORE) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Restore.cpp)
+
 ### 구현
 
 ### 자료구조
