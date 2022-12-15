@@ -137,6 +137,7 @@
     <ClCompile Include="algospot\JLIS.cpp" />
     <ClCompile Include="algospot\KLIS.cpp" />
     <ClCompile Include="algospot\NUMB3RS.cpp" />
+    <ClCompile Include="algospot\NUMBERGAME.cpp" />
     <ClCompile Include="algospot\PACKING.cpp" />
     <ClCompile Include="algospot\PI.cpp" />
     <ClCompile Include="algospot\Picnic.cpp" />

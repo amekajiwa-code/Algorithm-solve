@@ -13,7 +13,7 @@ int play(int left, int right) {
 	int& ret = cache[left][right];
 	if (ret != EMPTY) return ret;
 	// 수를 가져가는 경우
-	ret = max(board[left] - play(left + 1, right), 
+	ret = max(board[left] - play(left + 1, right),
 		board[right] - play(left, right - 1));
 	// 수를 없애는 경우
 	if (right - left + 1 >= 2) {
@@ -23,7 +23,7 @@ int play(int left, int right) {
 	return ret;
 }
 
-int main() {
+int numbergame_main() {
 	int C;
 	cin >> C;
 	while (C--) {
@@ -39,5 +39,5 @@ int main() {
 		int result = play(0, n - 1);
 		cout << result << "\n";
 	}
-	return 0; 
+	return 0;
 }
