@@ -46,6 +46,8 @@
 
 - [알고스팟 - 데이터 복구하기](https://algospot.com/judge/problem/read/RESTORE) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Restore.cpp)
 
+- [알고스팟 - 숫자게임](https://algospot.com/judge/problem/read/NUMBERGAME) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/NUMBERGAME.cpp)
+
 ### 구현
 
 ### 자료구조
