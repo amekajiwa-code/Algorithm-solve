@@ -26,13 +26,13 @@ void precalc() {
 			}
 		}
 	}
-		// 두칸 일자 블록 계산
-		for (int i = 0; i < 5; ++i) {
-			for (int j = 0; j < 4; ++j) {
-				moves.push_back(cell(i, j) + cell(i, j + 1));
-				moves.push_back(cell(j, i) + cell(j + 1, i));
-			}
+	// 두칸 일자 블록 계산
+	for (int i = 0; i < 5; ++i) {
+		for (int j = 0; j < 4; ++j) {
+			moves.push_back(cell(i, j) + cell(i, j + 1));
+			moves.push_back(cell(j, i) + cell(j + 1, i));
 		}
+	}
 }
 
 char cache[1 << 25];
@@ -55,7 +55,7 @@ char play(int board) {
 	return ret;
 }
 
-int main() {
+int blockgame_main() {
 	int C;
 	cin >> C;
 	precalc();
@@ -79,7 +79,7 @@ int main() {
 		else if (result == 0) {
 			cout << "LOSING" << "\n";
 		}
-		
+
 	}
-	return 0; 
+	return 0;
 }
