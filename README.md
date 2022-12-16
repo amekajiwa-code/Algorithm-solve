@@ -48,6 +48,8 @@
 
 - [알고스팟 - 숫자게임](https://algospot.com/judge/problem/read/NUMBERGAME) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/NUMBERGAME.cpp)
 
+- [알고스팟 - 블록게임](https://algospot.com/judge/problem/read/BLOCKGAME) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BlockGame.cpp)
+
 ### 구현
 
 ### 자료구조
