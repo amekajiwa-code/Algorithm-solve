@@ -21,7 +21,7 @@ int sushi()
 	}
 	return ret;
 }
-int main()
+int sushi_main()
 {
 	int C;
 	cin >> C;
