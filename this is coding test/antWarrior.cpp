@@ -23,7 +23,7 @@ void solve() {
     }
 }
 
-int main(void) {
+int antwarrior_main(void) {
     cin >> n;
     solve();
     cout << cache[n - 1] << '\n';
