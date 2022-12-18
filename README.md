@@ -50,6 +50,8 @@
 
 - [알고스팟 - 블록게임](https://algospot.com/judge/problem/read/BLOCKGAME) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BlockGame.cpp)
 
+- [알고스팟 - 회전초밥](https://algospot.com/judge/problem/read/SUSHI) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Sushi.cpp)
+
 ### 구현
 
 ### 자료구조
