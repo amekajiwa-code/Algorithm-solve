@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="17829번.cpp" />
+    <ClCompile Include="baekjoon\17829번.cpp" />
     <ClCompile Include="algospot\Asymmetric.cpp" />
     <ClCompile Include="algospot\BlockGame.cpp" />
     <ClCompile Include="algospot\BoardCover.cpp" />

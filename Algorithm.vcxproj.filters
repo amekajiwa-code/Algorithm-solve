@@ -81,7 +81,7 @@
     <ClCompile Include="baekjoon\1074번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="17829번.cpp">
+    <ClCompile Include="baekjoon\17829번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="algospot\WildCard.cpp">

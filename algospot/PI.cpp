@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 #include <cstring>
 #include <string>
@@ -75,4 +75,4 @@ int PI_main() {
 		cout << memorize(0) << "\n";
 	}
 	return 0;
-}*/
+}

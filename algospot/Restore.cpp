@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 #include <cstring>
 
@@ -95,4 +95,4 @@ int Restore_main() {
 		cout << reconstruct(k, 0) << "\n";
 	}
 	return 0;
-}*/
+}
