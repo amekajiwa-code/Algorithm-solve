@@ -26,7 +26,7 @@ int solve(int one, int two, int three) {
     return ret;
 }
 
-int main(void) {
+int main_9095(void) {
     int c;
     cin >> c;
     while (c--) {

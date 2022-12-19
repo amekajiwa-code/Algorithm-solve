@@ -165,6 +165,7 @@
     <ClCompile Include="baekjoon\2839번DP.cpp" />
     <ClCompile Include="baekjoon\7568번.cpp" />
     <ClCompile Include="baekjoon\9012번.cpp" />
+    <ClCompile Include="baekjoon\9095번.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="this is coding test\antWarrior.cpp" />
     <ClCompile Include="this is coding test\makeOne.cpp" />
