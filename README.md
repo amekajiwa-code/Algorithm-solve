@@ -53,6 +53,8 @@
 - [알고스팟 - 회전초밥](https://algospot.com/judge/problem/read/SUSHI) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Sushi.cpp)
 
 - [백준 9095번 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/9095번.cpp)
+
+- [백준 9095번 - 퇴사 2](https://www.acmicpc.net/problem/15486) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/15486번.cpp)
 ### 구현
 
 ### 자료구조
