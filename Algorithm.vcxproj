@@ -162,6 +162,7 @@
     <ClCompile Include="baekjoon\1920번.cpp" />
     <ClCompile Include="baekjoon\1929번.cpp" />
     <ClCompile Include="baekjoon\2164번.cpp" />
+    <ClCompile Include="baekjoon\2748번.cpp" />
     <ClCompile Include="baekjoon\2751번.cpp" />
     <ClCompile Include="baekjoon\2839번.cpp" />
     <ClCompile Include="baekjoon\2839번DP.cpp" />
