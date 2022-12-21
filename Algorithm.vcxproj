@@ -172,6 +172,7 @@
     <ClCompile Include="baekjoon\9095번.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="this is coding test\antWarrior.cpp" />
+    <ClCompile Include="this is coding test\FloorWork.cpp" />
     <ClCompile Include="this is coding test\makeOne.cpp" />
   </ItemGroup>
   <ItemGroup>
