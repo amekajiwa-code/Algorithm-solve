@@ -156,6 +156,12 @@
     <ClCompile Include="this is coding test\FloorWork.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="baekjoon\9252번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="baekjoon\9251번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baekjoon\1920번.h">
