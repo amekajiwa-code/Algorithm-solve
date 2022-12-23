@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="baekjoon\11066번.cpp" />
     <ClCompile Include="baekjoon\11726번.cpp" />
     <ClCompile Include="baekjoon\15486번.cpp" />
     <ClCompile Include="baekjoon\17829번.cpp" />
