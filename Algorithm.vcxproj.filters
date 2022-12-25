@@ -168,6 +168,9 @@
     <ClCompile Include="baekjoon\11049번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="this is coding test\minimumMoney.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baekjoon\1920번.h">
