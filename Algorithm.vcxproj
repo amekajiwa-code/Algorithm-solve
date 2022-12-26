@@ -177,6 +177,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="this is coding test\antWarrior.cpp" />
     <ClCompile Include="this is coding test\FloorWork.cpp" />
+    <ClCompile Include="this is coding test\GoldMine.cpp" />
     <ClCompile Include="this is coding test\makeOne.cpp" />
     <ClCompile Include="this is coding test\minimumMoney.cpp" />
   </ItemGroup>
