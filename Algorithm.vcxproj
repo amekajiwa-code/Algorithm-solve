@@ -181,6 +181,7 @@
     <ClCompile Include="this is coding test\makeOne.cpp" />
     <ClCompile Include="this is coding test\minimumMoney.cpp" />
     <ClCompile Include="this is coding test\Resignation.cpp" />
+    <ClCompile Include="this is coding test\SoldierPlace.cpp" />
     <ClCompile Include="this is coding test\tri.cpp" />
   </ItemGroup>
   <ItemGroup>
