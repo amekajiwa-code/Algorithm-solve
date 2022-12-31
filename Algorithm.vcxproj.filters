@@ -183,6 +183,9 @@
     <ClCompile Include="this is coding test\SoldierPlace.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="this is coding test\UglyNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baekjoon\1920번.h">

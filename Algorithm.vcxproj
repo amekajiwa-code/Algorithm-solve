@@ -183,6 +183,7 @@
     <ClCompile Include="this is coding test\Resignation.cpp" />
     <ClCompile Include="this is coding test\SoldierPlace.cpp" />
     <ClCompile Include="this is coding test\tri.cpp" />
+    <ClCompile Include="this is coding test\UglyNumber.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baekjoon\10814번.h" />
