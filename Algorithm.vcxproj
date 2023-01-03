@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="algospot\LunchBox.cpp" />
+    <ClCompile Include="algospot\MINASTIRITH.cpp" />
     <ClCompile Include="algospot\STRJOIN.cpp" />
     <ClCompile Include="baekjoon\11049번.cpp" />
     <ClCompile Include="baekjoon\11066번.cpp" />
