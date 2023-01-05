@@ -2,7 +2,7 @@
 ## 알고리즘 문제풀이
 
 ### 조합탐색
-- [알고스팟 - 도시락 데우기](https://algospot.com/judge/problem/read/BOARDCOVER2) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BoardCover2.cpp)
+- [알고스팟 - 게임판 덮기 2](https://algospot.com/judge/problem/read/BOARDCOVER2) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BoardCover2.cpp)
 
 ### 탐욕법 (Greedy)
 - [알고스팟 - 도시락 데우기](https://algospot.com/judge/problem/read/LUNCHBOX) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/LunchBox.cpp)
