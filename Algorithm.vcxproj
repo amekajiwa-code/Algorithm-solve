@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="algospot\ALLERGY.cpp" />
     <ClCompile Include="algospot\BoardCover2.cpp" />
     <ClCompile Include="algospot\LunchBox.cpp" />
     <ClCompile Include="algospot\MINASTIRITH.cpp" />
