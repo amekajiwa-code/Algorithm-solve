@@ -1,17 +1,6 @@
 # Algorithm
 ## 알고리즘 문제풀이
 
-### 조합탐색
-- [알고스팟 - 게임판 덮기 2](https://algospot.com/judge/problem/read/BOARDCOVER2) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BoardCover2.cpp)
-
-### 탐욕법 (Greedy)
-- [알고스팟 - 도시락 데우기](https://algospot.com/judge/problem/read/LUNCHBOX) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/LunchBox.cpp)
-
-- [알고스팟 - 문자열 합치기](https://algospot.com/judge/problem/read/STRJOIN) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/STRJOIN.cpp)
-
-
-- [알고스팟 - 미나스 아노르](https://algospot.com/judge/problem/read/MINASTIRITH) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/MINASTIRITH.cpp)
-
 ### 완전 탐색 (Brute Force)
 - [알고스팟 - 소풍](https://algospot.com/judge/problem/read/PICNIC) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/Picnic.cpp)
 
@@ -74,6 +63,19 @@
 - [백준 11066번 - 파일 합치기](https://www.acmicpc.net/problem/11066) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/11066번.cpp)
 
 - [백준 11049번 - 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/baekjoon/11049번.cpp)
+
+### 조합탐색
+- [알고스팟 - 게임판 덮기 2](https://algospot.com/judge/problem/read/BOARDCOVER2) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/BoardCover2.cpp)
+
+### 탐욕법 (Greedy)
+- [알고스팟 - 도시락 데우기](https://algospot.com/judge/problem/read/LUNCHBOX) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/LunchBox.cpp)
+
+- [알고스팟 - 문자열 합치기](https://algospot.com/judge/problem/read/STRJOIN) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/STRJOIN.cpp)
+
+- [알고스팟 - 미나스 아노르](https://algospot.com/judge/problem/read/MINASTIRITH) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/MINASTIRITH.cpp)
+
+### 최적화 문제 결정문제로 바꾸기
+- [알고스팟 - 캐나다 여행](https://algospot.com/judge/problem/read/CANADATRIP) / [소스코드](https://github.com/amekajiwa-code/Algorithm-solve/blob/master/algospot/CANADATRIP.cpp)
 
 ### 자료구조
 
