@@ -35,10 +35,10 @@ string DivisionTreeRecursive(const vector<vector<int>>* quadTree, int curLen, in
 	else if (sameNum == -1) {
 		result += "(";
 		int inputLen = curLen / 2;
-		result += DivisionTreeRecursive(quadTree, inputLen, startX, startY);
-		result += DivisionTreeRecursive(quadTree, inputLen, startX, startY + inputLen);
-		result += DivisionTreeRecursive(quadTree, inputLen, startX + inputLen, startY);
-		result += DivisionTreeRecursive(quadTree, inputLen, startX + inputLen, startY + inputLen);
+		result += DivisionTreeRecursive(quadTree, inputLen, startX, startY); // 왼쪽위
+		result += DivisionTreeRecursive(quadTree, inputLen, startX, startY + inputLen); // 왼쪽아래
+		result += DivisionTreeRecursive(quadTree, inputLen, startX + inputLen, startY); // 오른쪽위
+		result += DivisionTreeRecursive(quadTree, inputLen, startX + inputLen, startY + inputLen); // 오르쪽아래
 		result += ")";
 	}
 
