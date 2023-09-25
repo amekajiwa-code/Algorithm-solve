@@ -14,7 +14,7 @@ int JLIS(int indexA, int indexB) {
 	//캐시에 데이터가 있으면 return
 	int& ret = cache[indexA + 1][indexB + 1];
 	if (ret != -1) return ret;
-	ret = 2;
+	ret = 0;
 	long long a = (indexA == -1 ? NEGINF : A[indexA]);
 	long long b = (indexB == -1 ? NEGINF : B[indexB]);
 	long long maxElement = max(a, b);
@@ -32,6 +32,12 @@ int JLIS(int indexA, int indexB) {
 	return ret;
 }
 
+//메모이제이션으로 이미 계산된 값 리턴
+//이번 인덱스의 값이 최대값인지 확인
+//재귀함수를 돌려 이번값보다 큰값이 있는지 확인
+//더 크면 길이를 +1 늘림
+//재귀가 끝나면 JLIS 리턴
+
 
 int JLIS_main() {
 	int C;
@@ -45,7 +51,7 @@ int JLIS_main() {
 		for (int i = 0; i < m; ++i) {
 			cin >> B[i];
 		}
-		cout << JLIS(-1, -1) - 2 << "\n";
+		cout << JLIS(-1, -1) << "\n";
 	}
 	return 0;
 }
