@@ -18,11 +18,13 @@ int LevelCheck(int a, int b)
 	bool progressive = true;
 	for (int i = 0; i < piece.size() - 1; ++i)
 	{
+		//0번째 1번째 차이값과 i번째 i+1번째 차이값의 차이가 같을때 등차수열이다.
 		if (piece[i + 1] - piece[i] != piece[1] - piece[0])
 		{
 			progressive = false;
 		}
 	}
+	// 차이가 1씩 날때
 	if (progressive && abs(piece[1] - piece[0]) == 1)
 	{
 		return 2;
@@ -31,6 +33,7 @@ int LevelCheck(int a, int b)
 	bool inturn = true;
 	for (int i = 0; i < piece.size(); ++i)
 	{
+		//나머지값으로 두칸떨어진 값과 똑같은값 검사
 		if (piece[i] != piece[i % 2])
 		{
 			inturn = false;
@@ -45,13 +48,14 @@ int LevelCheck(int a, int b)
 
 int PI(int begin)
 {
-	//기저
+	//기저 : 인덱스가 글자끝에 도달했을때
 	if (begin == inputText.size()) return 0;
 	//메모이제이션
 	int& ret = cache[begin];
 	if (ret != -1) return ret;
 	ret = INF;
-
+	// 3, 4, 5 단위로 끊어서 재귀함수 작동
+	// 리턴된 값중 최소값 결과값으로 전달 ex) 0 + 2 + 2
 	for (int i = 3; i < 6; ++i)
 	{
 		if (begin + i <= inputText.size())
