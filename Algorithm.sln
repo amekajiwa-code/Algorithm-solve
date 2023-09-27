@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wildcard", "algospot\Wildca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PI", "algospot\PI\PI.vcxproj", "{CC3D0C70-A704-4B41-9A88-530627DAF9B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS486", "PS486\PS486.vcxproj", "{C1548854-42FC-457A-B20A-040E81D91543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{CC3D0C70-A704-4B41-9A88-530627DAF9B7}.Release|x64.Build.0 = Release|x64
 		{CC3D0C70-A704-4B41-9A88-530627DAF9B7}.Release|x86.ActiveCfg = Release|Win32
 		{CC3D0C70-A704-4B41-9A88-530627DAF9B7}.Release|x86.Build.0 = Release|Win32
+		{C1548854-42FC-457A-B20A-040E81D91543}.Debug|x64.ActiveCfg = Debug|x64
+		{C1548854-42FC-457A-B20A-040E81D91543}.Debug|x64.Build.0 = Debug|x64
+		{C1548854-42FC-457A-B20A-040E81D91543}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1548854-42FC-457A-B20A-040E81D91543}.Debug|x86.Build.0 = Debug|Win32
+		{C1548854-42FC-457A-B20A-040E81D91543}.Release|x64.ActiveCfg = Release|x64
+		{C1548854-42FC-457A-B20A-040E81D91543}.Release|x64.Build.0 = Release|x64
+		{C1548854-42FC-457A-B20A-040E81D91543}.Release|x86.ActiveCfg = Release|Win32
+		{C1548854-42FC-457A-B20A-040E81D91543}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
